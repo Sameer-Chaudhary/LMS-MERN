@@ -1,0 +1,27 @@
+node_modules/
+.env
+
+# build files
+
+dist/
+build/
+.vite/
+
+# logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# editor files
+
+.vscode/
+.idea/
+
+# temp
+
+.cache/
+coverage/
